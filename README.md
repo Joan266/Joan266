@@ -4,7 +4,7 @@ I'm a fullstack developer passionate about coding and continuously developing my
 
 ### 🧰 Languages and Tools
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 30px;">
   <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
