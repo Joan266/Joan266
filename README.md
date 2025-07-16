@@ -1,4 +1,4 @@
-# 🚀 Joan Alemany
+# 👨🏻‍💻 Joan Alemany
 
 I'm a fullstack developer passionate about coding and continuously developing my skills.😄
 
