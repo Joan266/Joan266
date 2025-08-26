@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Joan Alemany
 
-I'm a fullstack developer passionate about coding and continuously developing my skills.😄
+I'm a fullstack developer passionate about coding and continuously developing my skills.:D
 
 ### 🧰 Languages and Tools
 
