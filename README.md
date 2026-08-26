@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Joan Alemany Chulilla
 
-**Backend & Cloud Engineer** especializado en el desarrollo de arquitecturas cloud-native, sistemas multi-tenant SaaS y pipelines de IA Generativa (RAG con AWS Bedrock y Claude).
+**Backend & Cloud Engineer** participación en desarrollo de arquitecturas cloud-native, sistemas multi-tenant SaaS y pipelines de IA Generativa (RAG con AWS Bedrock y Claude).
 
-* ☁️ **Cloud & Infraestructura:** Diseño y optimización de infraestructura en AWS (Cognito multi-tenant, Aurora PostgreSQL, Lambda, EC2). Enfoque FinOps con reducciones demostrables de costes operativos de infraestructura.
+* ☁️ **Cloud & Infraestructura:** Diseño y optimización de infraestructura en AWS (Cognito multi-tenant, Aurora PostgreSQL, Lambda, EC2). 
 * 🤖 **AI Engineering:** Implementación de pipelines RAG avanzados, bases de datos vectoriales (PostgreSQL/MongoDB Vector Search) y desarrollo de sistemas agénticos con LLMs.
 
 ---
